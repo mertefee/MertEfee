@@ -1,4 +1,4 @@
-<h3 align="center">Preparing For Collage</h3>
+<h3 align="center">Preparing For College</h3>
 <img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119e8ea9916adb61321509545fb8834e3296dcf2d0&rid=giphy.gif&ct=g)
 
 - 🌱 I’m currently learning **Python & Linux**
