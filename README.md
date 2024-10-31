@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.instagram.com/eefe.mert/)" target="blank"><img align="center" src="https://www.instagram.com/eefe.mert/" alt="eefe.mert" height="30" width="40" /></a>
+<a href="(https://www.instagram.com/eefe.mert/)" target="blank"><img align="center" <img src="https://camo.githubusercontent.com/c909a57cb8f99e2af1780b9107d7dca60a8538b006c4d4a77baffc8d126c1845/68747470733a2f2f696d672e69636f6e73382e636f6d2f706c6173746963696e652f3130302f3030303030302f676d61696c2e706e67" width="61" data-canonical-src="https://img.icons8.com/plasticine/100/000000/gmail.png" style="max-width: 100%;">" alt="eefe.mert" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
