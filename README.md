@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mert-efe-lale-46490b25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert efe lale" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mert-efe-lale-46490b25b/](https://www.linkedin.com/in/mert-efe-lale-8759ab211/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mert efe lale" height="30" width="40" /></a>
 <a href="https://instagram.com/eefe.mert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eefe.mert" height="30" width="40" /></a>
 </p>
 
