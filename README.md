@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Efe</h1>
-<h3 align="center">Studying Computer Programming</h3>
+<h3 align="center">Computer Programming Graduate</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
